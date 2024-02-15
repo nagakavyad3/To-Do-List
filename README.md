@@ -1,2 +1,2 @@
-Link for To-Do-List is given below:
-https://github.com/nagakavyad3/To-Do-List
+Link for To-Do-List is:
+https://nagakavyad3.github.io/To-Do-List/
